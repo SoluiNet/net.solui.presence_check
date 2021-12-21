@@ -5,6 +5,7 @@
 Check the presence of connected network devices
 
 ## Set up your config
+```json
 {
   "endpoints": [
     { 
@@ -21,3 +22,4 @@ Check the presence of connected network devices
     }
   ]
 }
+```
